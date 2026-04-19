@@ -1,5 +1,8 @@
 # 💫 About Me:
-Java Learner | Aspiring Full Stack Developer<br>Engineering student<br><br>Learning and Building projects
+💻 Aspiring Software Developer  
+🚀 C | Java | DSA | OOP  
+📚 Currently building projects & improving problem-solving skills  
+🎯 Goal: Become a Full Stack Developer
 
 
 # 💻 Tech Stack:
